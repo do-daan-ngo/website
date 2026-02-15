@@ -7,45 +7,42 @@
 - **Social Media**:
     - WhatsApp Group: [Join Link](https://chat.whatsapp.com/LhQYPPyj9BkDUSeuY0Cvz1)
     - Instagram: [do_daan1810](https://www.instagram.com/do_daan1810/)
+- **Contact Info (Updated)**:
+    - Address: "We serve in Patan and around"
+    - Phone: "8141230350"
+    - Tagline: "सर्वजीव हिताय"
+    - Served Count: 130 Children
+    - Volunteers: 19+
+- **Hero Image (Updated)**:
+    - Updated to `do-daan-assests/Hero-group.png`.
+- **Visual Improvements**:
+    - **Hero Text**: Added text shadow, changed font weight, and split name/tagline for better hierarchy. 
+    - **Hero Overlay**: Darkened and added gradient for better text readability.
+    - **Logo**: Increased size to 80px for better visibility.
+    - **Donate Button**: Replaced "Watch Video" with "Donate" button, linked to `do-daan-assests/donate.jpeg` popup, and updated icon to heart.
 
 ## Remaining Information Required (Unchanged from Template)
 
 To fully customize the website, the following information is needed to replace the template content:
 
-### 1. Contact Details
-- **Address**: Currently "203 Fake St. Mountain View, San Francisco, California, USA".
-- **Phone Number**: Currently "+2 392 3929 210".
-- **Map Location**: Coordinates for the Google Map in `contact.html` and `index.html`.
-
-### 2. Home Page Content
-- **Hero/Banner Section**:
-    - **Tagline**: Currently "Doing Nothing is Not An Option of Our Life".
-    - **Subtext**: Currently "Created by Colorlib.com".
-    - **Video**: Provide a link to a promotional video (optional).
-    - **Background Image**: Need a high-quality hero image for the main banner.
-- **Intro Counters**:
-    - Number of "Served Over" (Children/People).
-    - Number of volunteers.
+### 1. Home Page Content
 - **Mission Statement**: Short text describing the core mission.
 
-### 3. About Us
+### 2. About Us
 - **Detailed Description**: A full description of the NGO's history, vision, and mission.
 - **Team/Volunteers**: Names and photos of key team members (if you want to display them).
 
-### 4. Causes / Projects
+### 3. Causes / Projects
 - **List of Causes**:
     - Titles (e.g., "Clean water", "Education").
     - Descriptions.
     - Fundraising Goals ($ Target vs $ Raised).
     - Images for each cause.
 
-### 5. Media & Events
+### 4. Media & Events
 - **Gallery Images**: Photos of recent activities to populate the gallery.
 - **Upcoming Events**: Dates, times, and descriptions of upcoming events.
 - **Blog Posts**: News or stories to display in the "Recent Blog" section.
 
-### 6. Assets
+### 5. Assets
 - **Images**: Please upload remaining images (banners, cause photos, gallery photos) to the `do-daan-assests` folder and specify which image corresponds to which section.
-
----
-
